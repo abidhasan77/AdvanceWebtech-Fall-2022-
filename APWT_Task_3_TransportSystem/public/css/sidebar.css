@@ -1,0 +1,30 @@
+.top{
+    height: 70px;
+    width :100%;
+    
+    padding-left: 2rem;
+    padding-top: 0rem;
+    position: absolute;
+    content: "";
+    top: 0;
+    background-color: transparent;
+    position: absolute;
+    content: "";
+    left: 0;
+    top:0;
+    
+}
+.button{
+    margin-left: 200px;
+    margin-top: -50px;
+}
+
+
+a:nth-of-type(n) {
+    margin-left: 50px;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+    background-color: transparent;
+    border: 2px solid black;
+  }
